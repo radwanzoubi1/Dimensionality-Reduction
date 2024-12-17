@@ -1,6 +1,7 @@
 ### Dimensionality-Reduction
 
-The **Dimensionality Reduction Project** focuses on detecting distracted driving behaviors using a dataset of **22,424 colored images** from dashboard cameras. By applying image preprocessing, **Principal Component Analysis (PCA)**, Randomized PCA, and feature extraction techniques like DAISY, we reduce data complexity to enable effective classification of distracted behaviors. This project aims to enhance road safety and support better risk assessments.
+The **Dimensionality Reduction Project** focuses on detecting distracted driving behaviors using a dataset of **22,424 colored images** from dashboard cameras. By applying image preprocessing, **Principal Component Analysis (PCA)** and **Randomized PCA (RPCA)** using **Scikit-learn**, along with feature extraction techniques like DAISY, we reduce data complexity to enable effective classification of distracted behaviors. This project aims to enhance road safety and support better risk assessments.
+
 
 ---
 ### About the Dataset
